@@ -5,7 +5,7 @@
 
 
 #### Nessa aula 
-Os alunos aprenderão: a criar um script que irá provisionar automaticamente um servidor web. 
+Os alunos aprenderão a criar um script que irá provisionar automaticamente um servidor web. 
 
 **Objetivo:**
 
