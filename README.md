@@ -1,2 +1,6 @@
-# dio-desafio-linux-projeto2-iac
-Script para provisionamento de um servidor Apache (integrante do curso Linux básico da DIO)
+# Script de Provisionamento
+## Desafio de projeto da DIO
+### Instrutor: [Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/)
+Este repositório foi criado como parte do desafio de projeto do curso básico de Git/GitHub da DIO.  
+
+
